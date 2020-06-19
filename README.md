@@ -1,4 +1,4 @@
 # Blog Template
 
 ### Click below to view live demo
-[Click Here](https://flyingsonu122.github.io/)
+[Click Here](https://blog-demo.netlify.app/)
